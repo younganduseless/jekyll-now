@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hire Young
+title: Hire
 permalink: /hire/
 published: true
 ---
