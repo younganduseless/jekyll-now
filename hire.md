@@ -2,6 +2,7 @@
 layout: page
 title: Hire
 permalink: /hire/
+published: true
 ---
 
 Some information about you!
