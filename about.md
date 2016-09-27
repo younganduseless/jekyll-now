@@ -13,4 +13,5 @@ Food Nerd
 
 ### Contact
 
-geneyoung@linuxmail.org
+[geneyoung@linuxmail.org](mailto:geneyoung@linuxmail.org)
+
