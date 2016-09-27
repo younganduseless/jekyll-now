@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hire
-permalink: /hire/
+title: About
+permalink: /about/
 published: true
 ---
 
