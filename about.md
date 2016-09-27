@@ -1,8 +1,16 @@
 ---
 layout: page
-title: Hire Me
-permalink: /hire/
+title: About
+permalink: /about/
 published: true
 ---
 
-Let me help you with that content!
+Avid music specialist. Reader. Award-winning internet buff. Unable to type with boxing gloves on.
+
+### More Information
+
+Food Nerd
+
+### Contact
+
+geneyoung@linuxmail.org
